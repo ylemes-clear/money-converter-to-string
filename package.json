@@ -1,0 +1,21 @@
+{
+  "name": "ex3-moneyconverter",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.1"
+  },
+  "dependencies": {
+    "jest-environment-jsdom": "^28.0.1"
+  }
+}
